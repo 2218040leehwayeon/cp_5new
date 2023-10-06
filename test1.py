@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var = int(input("몇단까지 입력할까요?"))
 print(var)
 print("구구단을 출력합니다.\n")
